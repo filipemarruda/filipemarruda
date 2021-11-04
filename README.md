@@ -16,6 +16,7 @@
 
 
 <h2></h2>
+
 ### Repo stats
 <p align="center">
   <a href="https://github.com/filipemarruda">
@@ -35,6 +36,7 @@
 </p>  
 
 <h2></h2>
+
 ### Personal user stats
 <p align="center">
   <a href="https://github.com/filipemarruda">
