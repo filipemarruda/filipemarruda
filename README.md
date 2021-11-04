@@ -3,11 +3,6 @@
 <p align="center">
   Filipe Mendes Arruda (฿ł₭₳₴) 🐍 Founder and CTO at <a href="https://www.agendadigitaleducarebox.com/">EducareBox</a>
 </p>
-<h2></h2>
-
-<p align="center">
-  Find me here!
-</p>
 
 <p align="center">
   <a href="https://github.com/filipemarruda"><img src="https://img.shields.io/badge/-Github-white?style=flat&amp;logo=Github&amp;logoColor=black&amp;link=https://github.com/filipemarruda" alt="Github Badge"></a>
