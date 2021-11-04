@@ -8,7 +8,9 @@
 
 <h2></h2>
 
-### Find me here!
+<p align="center">
+  Find me here!
+</p>
 
 <p align="center">
   <a href="https://github.com/filipemarruda"><img src="https://img.shields.io/badge/-Github-white?style=flat&amp;logo=Github&amp;logoColor=black&amp;link=https://github.com/filipemarruda" alt="Github Badge"></a>
@@ -19,7 +21,10 @@
 
 <h2></h2>
 
-### Repo stats
+<p align="center">
+  Repo stats
+</p>
+
 <p align="center">
   <a href="https://github.com/filipemarruda">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=filipemarruda&show_icons=true&theme=radical" />
@@ -39,7 +44,10 @@
 
 <h2></h2>
 
-### Personal usage
+<p align="center">
+  Personal usage
+</p>
+
 <p align="center">
   <a href="https://github.com/filipemarruda">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=filipemarruda&layout=compact" />
