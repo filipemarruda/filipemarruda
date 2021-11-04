@@ -1,3 +1,5 @@
+[![Filipe's GitHub Banner](./assets/GitHubHeader.jfif)](https://www.agendadigitaleducarebox.com)
+
 <h1 id="filipe-mendes-arruda-">Filipe Mendes Arruda (฿ł₭₳₴ 🐍)</h1>
 
 <p align="center">
@@ -6,8 +8,8 @@
 
 
 <p align="center">
-  <a href="https:filipemarruda.dev"><img src="https://badges.pufler.dev/visits/filipemarruda/filipemarruda" alt="Visits Badge"></a>
-  <a href="https:filipemarruda.dev"><img src="https://badges.pufler.dev/years/filipemarruda" alt="Years Badge"></a>
+  <a href="https://www.agendadigitaleducarebox.com"><img src="https://badges.pufler.dev/visits/filipemarruda/filipemarruda" alt="Visits Badge"></a>
+  <a href="https://www.agendadigitaleducarebox.com"><img src="https://badges.pufler.dev/years/filipemarruda" alt="Years Badge"></a>
   <a href="https://github.com/filipemarruda"><img src="https://img.shields.io/badge/-Github-white?style=flat&amp;logo=Github&amp;logoColor=black&amp;link=https://github.com/filipemarruda" alt="Github Badge"></a>
   <a href="https://www.linkedin.com/in/filipemarruda/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/filipemarruda/" alt="Linkedin Badge"></a>
   <a href="mailto:filipemarruda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:filipemarruda@gmail.com" alt="Gmail Badge"></a>
