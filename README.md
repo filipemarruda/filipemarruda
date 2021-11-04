@@ -5,6 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipemarruda/)](https://www.linkedin.com/in/filipemarruda/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:filipemarruda@gmail.com)](mailto:filipemarruda@gmail.com)
 [![Stackoverflow Badge](https://img.shields.io/badge/-stackoverflow-grey?logo=stackoverflow&style=flat&link=https://stackoverflow.com/users/6332574/filipe-mendes)](https://stackoverflow.com/users/6332574/filipe-mendes)
+[![wakatime](https://wakatime.com/badge/user/9c824246-473b-4a43-910b-9f25f2afe8a2.svg)](https://wakatime.com/@9c824246-473b-4a43-910b-9f25f2afe8a2)
 
 ### 🐍 Founder and CTO at [EducareBox](https://www.agendadigitaleducarebox.com/)
 
