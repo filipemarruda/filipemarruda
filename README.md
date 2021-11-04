@@ -1,12 +1,10 @@
+<h2></h2>
+[![Filipe's GitHub Banner](./assets/GitHubHeader.jfif)](https://www.agendadigitaleducarebox.com)
+<h2></h2>
+
 <p align="center">
   Filipe Mendes Arruda (฿ł₭₳₴) 🐍 Founder and CTO at <a href="https://www.agendadigitaleducarebox.com/">EducareBox</a>
 </p>
-
-<h2></h2>
-
-[![Filipe's GitHub Banner](./assets/GitHubHeader.jfif)](https://www.agendadigitaleducarebox.com)
-
-<h2></h2>
 
 <p align="center">
   Find me here!
