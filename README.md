@@ -13,3 +13,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipemarruda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![filipemarruda's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipemarruda&show_icons=true&theme=radical)
+
+
+[![filipemarruda's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=filipemarruda)](https://github.com/anuraghazra/github-readme-stats)
