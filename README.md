@@ -6,10 +6,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:filipemarruda@gmail.com)](mailto:filipemarruda@gmail.com)
 [![Stackoverflow Badge](https://img.shields.io/badge/-stackoverflow-grey?logo=stackoverflow&style=flat&link=https://stackoverflow.com/users/6332574/filipe-mendes)](https://stackoverflow.com/users/6332574/filipe-mendes)
 
-
 ### 🐍 Founder and CTO at [EducareBox](https://www.agendadigitaleducarebox.com/)
 
-<!-- GitHub Stats -- >
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipemarruda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
