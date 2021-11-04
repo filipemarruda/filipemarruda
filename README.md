@@ -22,7 +22,7 @@
 <h2></h2>
 
 <p align="center">
-  Repo stats
+  GitHub stats
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@
 <h2></h2>
 
 <p align="center">
-  Personal usage
+  My PC usage stats
 </p>
 
 <p align="center">
