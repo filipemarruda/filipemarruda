@@ -1,4 +1,4 @@
-<p align="center" style='font-size: 32px; border-bottom: rgb(33, 38, 45) solid 1px; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji"; font-weight: 600; '>Filipe Mendes Arruda (฿ł₭₳₴ 🐍)</p>
+<p align="center" style='font-size: 32px;'>Filipe Mendes Arruda (฿ł₭₳₴ 🐍)</p>
 
 [![Filipe's GitHub Banner](./assets/GitHubHeader.jfif)](https://www.agendadigitaleducarebox.com)
 
