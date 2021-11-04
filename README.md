@@ -1,6 +1,6 @@
 <h1 id="filipe-mendes-arruda-">Filipe Mendes Arruda (฿ł₭₳₴ 🐍)</h1>
 
-<p>
+<p align="center">
   <a href="https:filipemarruda.dev"><img src="https://badges.pufler.dev/visits/filipemarruda/filipemarruda" alt="Visits Badge"></a>
   <a href="https:filipemarruda.dev"><img src="https://badges.pufler.dev/years/filipemarruda" alt="Years Badge"></a>
   <a href="https://github.com/filipemarruda"><img src="https://img.shields.io/badge/-Github-white?style=flat&amp;logo=Github&amp;logoColor=black&amp;link=https://github.com/filipemarruda" alt="Github Badge"></a>
