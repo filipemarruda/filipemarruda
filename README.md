@@ -1,15 +1,15 @@
 [![Filipe's GitHub Banner](./assets/GitHubHeader.jfif)](https://www.agendadigitaleducarebox.com)
 
-<h1 >Filipe Mendes Arruda (฿ł₭₳₴ 🐍)</h1>
+<p align="center">
+  Filipe Mendes Arruda (฿ł₭₳₴) 🐍 Founder and CTO at <a href="https://www.agendadigitaleducarebox.com/">EducareBox</a>
+</p>
 
 <a href="https://github.com/filipemarruda"><img src="https://img.shields.io/badge/-Github-white?style=flat&amp;logo=Github&amp;logoColor=black&amp;link=https://github.com/filipemarruda" alt="Github Badge"></a>
 <a href="https://www.linkedin.com/in/filipemarruda/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/filipemarruda/" alt="Linkedin Badge"></a>
 <a href="mailto:filipemarruda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:filipemarruda@gmail.com" alt="Gmail Badge"></a>
 <a href="https://stackoverflow.com/users/6332574/filipe-mendes"><img src="https://img.shields.io/badge/-stackoverflow-grey?logo=stackoverflow&amp;style=flat&amp;link=https://stackoverflow.com/users/6332574/filipe-mendes" alt="Stackoverflow Badge"></a>
 
-<p align="center">
-  🐍 Founder and CTO at <a href="https://www.agendadigitaleducarebox.com/">EducareBox</a>
-</p>
+
 
 
 
