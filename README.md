@@ -3,9 +3,11 @@
 </p>
 
 <h2></h2>
+
 [![Filipe's GitHub Banner](./assets/GitHubHeader.jfif)](https://www.agendadigitaleducarebox.com)
 
 <h2></h2>
+
 ### Find me here!
 
 <p align="center">
