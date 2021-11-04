@@ -18,6 +18,8 @@
 <p align="center">
   <a href="https://www.agendadigitaleducarebox.com"><img src="https://badges.pufler.dev/visits/filipemarruda/filipemarruda" alt="Visits Badge"></a>
   <a href="https://www.agendadigitaleducarebox.com"><img src="https://badges.pufler.dev/years/filipemarruda" alt="Years Badge"></a>
+</p>  
+<p align="center">
   <a href="https://github.com/filipemarruda">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=filipemarruda&show_icons=true&theme=radical" />
   </a>
@@ -33,5 +35,7 @@
   <a href="https://github.com/filipemarruda">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=filipemarruda&layout=compact" />
   </a>
+</p>
+<p align="center">
   <a href="https://wakatime.com/@9c824246-473b-4a43-910b-9f25f2afe8a2"><img src="https://wakatime.com/badge/user/9c824246-473b-4a43-910b-9f25f2afe8a2.svg" alt="wakatime"></a>
 </p>
