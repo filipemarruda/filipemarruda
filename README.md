@@ -9,9 +9,11 @@
 
 ### 🐍 Founder and CTO at [EducareBox](https://www.agendadigitaleducarebox.com/)
 
-<a href="https://github.com/filipemarruda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipemarruda&layout=compact" />
-</a>
+<div style="margin: 0 auto">
+  <a href="https://github.com/filipemarruda">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipemarruda&layout=compact" />
+  </a>
+</div>
 <a href="https://github.com/filipemarruda">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=filipemarruda&show_icons=true&theme=radical" />
 </a>
