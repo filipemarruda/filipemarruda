@@ -14,6 +14,7 @@
   <a href="https://stackoverflow.com/users/6332574/filipe-mendes"><img src="https://img.shields.io/badge/-stackoverflow-grey?logo=stackoverflow&amp;style=flat&amp;link=https://stackoverflow.com/users/6332574/filipe-mendes" alt="Stackoverflow Badge"></a></p>
   
 ### Repo stats
+---
 
 <p align="center">
   <a href="https://github.com/filipemarruda">
@@ -33,6 +34,8 @@
 </p>  
 
 ### Personal user stats
+---
+
 <p align="center">
   <a href="https://github.com/filipemarruda">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=filipemarruda&layout=compact" />
