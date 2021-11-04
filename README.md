@@ -15,7 +15,7 @@
 
 
 
--
+--
 ### Repo stats
 
 <p align="center">
@@ -35,7 +35,7 @@
   <a href="https://www.agendadigitaleducarebox.com"><img src="https://badges.pufler.dev/years/filipemarruda" alt="Years Badge"></a>
 </p>  
 
--
+--
 ### Personal user stats
 
 <p align="center">
