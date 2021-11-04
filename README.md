@@ -16,7 +16,9 @@
   <a href="mailto:filipemarruda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:filipemarruda@gmail.com" alt="Gmail Badge"></a>
   <a href="https://stackoverflow.com/users/6332574/filipe-mendes"><img src="https://img.shields.io/badge/-stackoverflow-grey?logo=stackoverflow&amp;style=flat&amp;link=https://stackoverflow.com/users/6332574/filipe-mendes" alt="Stackoverflow Badge"></a>
 </p>
-  
+
+<h2></h2>
+
 ### Repo stats
 <p align="center">
   <a href="https://github.com/filipemarruda">
@@ -37,7 +39,7 @@
 
 <h2></h2>
 
-### Personal user stats
+### Personal usage
 <p align="center">
   <a href="https://github.com/filipemarruda">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=filipemarruda&layout=compact" />
