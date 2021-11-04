@@ -1,4 +1,4 @@
-<p align="center" style='font-size: 32px;'>Filipe Mendes Arruda (฿ł₭₳₴ 🐍)</p>
+<h1 >Filipe Mendes Arruda (฿ł₭₳₴ 🐍)</h1>
 
 [![Filipe's GitHub Banner](./assets/GitHubHeader.jfif)](https://www.agendadigitaleducarebox.com)
 
