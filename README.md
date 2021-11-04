@@ -1,5 +1,5 @@
 <h2></h2>
-[![Filipe's GitHub Banner](./assets/GitHubHeader.jfif)](https://www.agendadigitaleducarebox.com)
+<a href="https://www.agendadigitaleducarebox.com"><img src="./assets/GitHubHeader.jfif" alt="Filipe's GitHub Banner"></a>
 <h2></h2>
 
 <p align="center">
