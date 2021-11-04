@@ -15,9 +15,8 @@
 
 
 
-<h2/>
+<h2></h2>
 ### Repo stats
-
 <p align="center">
   <a href="https://github.com/filipemarruda">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=filipemarruda&show_icons=true&theme=radical" />
@@ -35,9 +34,8 @@
   <a href="https://www.agendadigitaleducarebox.com"><img src="https://badges.pufler.dev/years/filipemarruda" alt="Years Badge"></a>
 </p>  
 
-<h2/>
+<h2></h2>
 ### Personal user stats
-
 <p align="center">
   <a href="https://github.com/filipemarruda">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=filipemarruda&layout=compact" />
