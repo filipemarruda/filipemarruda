@@ -102,8 +102,7 @@ I'm always open to discussing technology, leadership, system design, or potentia
 
 <div align="center">
   
-![Profile Views](https://badges.pufler.dev/visits/filipemarruda/filipemarruda?style=flat-square&color=blue)
-![GitHub Years](https://badges.pufler.dev/years/filipemarruda?style=flat-square&color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/filipemarruda?style=flat-square&color=blue)
 ![GitHub Followers](https://img.shields.io/github/followers/filipemarruda?style=flat-square&color=blue)
 
 **"Building the future, one commit at a time"** 🚀
