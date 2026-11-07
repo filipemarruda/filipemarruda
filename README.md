@@ -97,6 +97,22 @@ I run a self-hosted homelab as my platform-engineering playground: a **Proxmox V
 **Kubernetes**, **Traefik** behind a **Cloudflare Tunnel**, **Keycloak** SSO, self-hosted secrets management,
 and a self-hosted Git server with its own **CI/CD runners**. The infrastructure is defined as code and backed up here on GitHub.
 
+## GitHub activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=filipemarruda&theme=github-dark-blue&hide_border=true&background=0D1117">
+    <img src="https://streak-stats.demolab.com/?user=filipemarruda&theme=default&hide_border=true" alt="GitHub streak stats">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/filipemarruda/filipemarruda/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/filipemarruda/filipemarruda/output/github-snake.svg" alt="Snake eating my contribution graph">
+  </picture>
+</p>
+
 ## Let's connect
 
 Happy to talk about back-end architecture, platform engineering, AI-assisted development or homelabs.
