@@ -1,110 +1,39 @@
-# Hi there, I'm Filipe Mendes Arruda 👋
-
 <p align="center">
-  <img src="./assets/GitHubHeader.jfif" alt="Filipe's GitHub Banner" width="100%">
+  <img src="./assets/GitHubHeader.jfif" alt="Filipe Arruda" width="100%">
 </p>
 
-<h3 align="center">
-  🚀 Founder & CTO at <a href="https://www.agendadigitaleducarebox.com/">EducareBox</a> | Software Architect | Engineering Leader
-</h3>
+<h1 align="center">Hi, I'm Filipe Arruda 👋</h1>
 
 <p align="center">
-  <em>Transforming ideas into scalable digital solutions through innovative technology and strategic leadership</em>
+  <b>Senior Software Engineer · Software Architect</b><br>
+  Back-end systems, platform architecture and production LLM integrations<br>
+  <sub>Java / Spring Boot · Node.js · AWS · Kafka · Kubernetes</sub>
 </p>
 
----
-
-## 🎯 About Me
-
-I'm a seasoned **Software Developer**, **Engineering Leader**, and **System Designer** with extensive experience in building and scaling technology organizations. As the Founder and CTO of EducareBox, I lead technical strategy and innovation while fostering high-performing engineering teams.
-
-**What drives me:**
-- 🔧 **System Architecture**: Designing resilient, scalable systems that power business growth
-- 👥 **Technical Leadership**: Mentoring developers and building world-class engineering cultures  
-- 🌟 **Innovation**: Turning complex challenges into elegant, maintainable solutions
-- 📚 **Continuous Learning**: Staying at the forefront of emerging technologies and best practices
-
-## 💼 Professional Focus
-
-```
-🏗️  System Design & Architecture    🎯  Technical Strategy & Vision
-👨‍💼  Engineering Leadership          🚀  Product Development & Innovation  
-⚡  Performance Optimization        🔄  DevOps & Cloud Infrastructure
-🤝  Cross-functional Collaboration  📊  Data-Driven Decision Making
-```
-
-## 🛠️ Technical Expertise
-
-**Languages & Frameworks:**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-**Infrastructure & Tools:**
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-## 🏢 Leadership Philosophy
-
-> *"Great software is built by great teams. My role is to create environments where exceptional engineers can do their best work while delivering solutions that make a real impact."*
-
-**Core Leadership Principles:**
-- **Empowerment**: Trust teams with ownership and autonomy
-- **Growth Mindset**: Foster continuous learning and professional development
-- **Technical Excellence**: Champion best practices and code quality
-- **Strategic Thinking**: Align technical decisions with business objectives
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=filipemarruda&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&border_color=30363d)](https://github.com/filipemarruda)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=filipemarruda&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d)](https://github.com/filipemarruda)
-
-</div>
-
-## ⚡ Development Activity
-
-<div align="center">
-  
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=filipemarruda&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d)](https://wakatime.com/@9c824246-473b-4a43-910b-9f25f2afe8a2)
-
-[![wakatime](https://wakatime.com/badge/user/9c824246-473b-4a43-910b-9f25f2afe8a2.svg)](https://wakatime.com/@9c824246-473b-4a43-910b-9f25f2afe8a2)
-
-</div>
-
-## 🤝 Let's Connect
-
-I'm always open to discussing technology, leadership, system design, or potential collaborations.
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/filipemarruda/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:filipemarruda@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://stackoverflow.com/users/6332574/filipe-mendes">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow">
-  </a>
-  <a href="https://github.com/filipemarruda">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+  <a href="https://www.linkedin.com/in/filipemarruda/"><img src="https://img.shields.io/badge/LinkedIn-filipemarruda-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:filipemarruda@gmail.com"><img src="https://img.shields.io/badge/Email-filipemarruda%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://blog.b1k4s.uk"><img src="https://img.shields.io/badge/Blog-Notes_from_the_field-111827?style=flat-square&logo=rss&logoColor=white" alt="Blog"></a>
+  <img src="https://img.shields.io/badge/Brazil-Remote-009C3B?style=flat-square" alt="Brazil · Remote">
 </p>
 
 ---
 
-<div align="center">
-  
-![GitHub Stars](https://img.shields.io/github/stars/filipemarruda?style=flat-square&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/filipemarruda?style=flat-square&color=blue)
+## About me
 
-**"Building the future, one commit at a time"** 🚀
+I'm a software engineer with **13+ years** building end-to-end solutions and leading engineering teams.
+I specialise in robust back-end systems and platform architecture, and I enjoy owning the whole path:
+requirements discovery, architecture, code, infrastructure and operations.
 
-</div>
+- 🏗️ **Now:** Senior Software Engineer / Architect at **The Learning Experience** (remote, US), leading architecture for platform features, including LLM-integrated production workflows.
+- 🤖 **Focus:** steering teams to the sweet spot of productivity, quality and security in AI-assisted development: prompt governance, evals, code-review patterns, clear contracts and observability.
+- 🚀 **Before:** co-founded **EducareBox**, an EdTech I took as CTO from zero to **50,000+ daily users** across every Brazilian state.
+- 🎓 B.S. Computer Science (Fumec) · Harvard **CS50** · **OCJP** · **AWS Cloud Practitioner**
+- 🌎 Portuguese (native) · English (professional)
+
+## Let's connect
+
+Happy to talk about back-end architecture, platform engineering, AI-assisted development or homelabs.
+The best way to reach me is [LinkedIn](https://www.linkedin.com/in/filipemarruda/) or [email](mailto:filipemarruda@gmail.com).
+
+<p align="center"><sub>Building reliable systems, one commit at a time.</sub></p>
