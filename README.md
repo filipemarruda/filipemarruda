@@ -31,6 +31,35 @@ requirements discovery, architecture, code, infrastructure and operations.
 - 🎓 B.S. Computer Science (Fumec) · Harvard **CS50** · **OCJP** · **AWS Cloud Practitioner**
 - 🌎 Portuguese (native) · English (professional)
 
+## Tech stack
+
+<table>
+  <tr>
+    <td><b>Back-end &amp; APIs</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,py,kafka" alt="Java, Spring, Node.js, TypeScript, Python, Kafka"></td>
+  </tr>
+  <tr>
+    <td><b>Cloud &amp; Infra</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,cloudflare,linux" alt="AWS, GCP, Docker, Kubernetes, Terraform, Cloudflare, Linux"></td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,dynamodb,mongodb,mysql,redis" alt="PostgreSQL, DynamoDB, MongoDB, MySQL, Redis"></td>
+  </tr>
+  <tr>
+    <td><b>Front-end</b></td>
+    <td><img src="https://skillicons.dev/icons?i=angular,react" alt="Angular, React / React Native"></td>
+  </tr>
+  <tr>
+    <td><b>DevOps &amp; Quality</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,githubactions,gitlab,grafana,prometheus,sentry,bash" alt="Git, GitHub Actions, GitLab, Grafana, Prometheus, Sentry, Bash"></td>
+  </tr>
+</table>
+
+**Also:** AWS ECS · Lambda · MSK · SQS/SNS · CloudFormation · REST · TDD (JUnit, Mockito) · SonarQube quality gates · Agile / Scrum / Kanban · system design · mentoring
+
+**AI / LLM:** production LLM systems · prompt governance · evals · AI-assisted development enablement
+
 ## Let's connect
 
 Happy to talk about back-end architecture, platform engineering, AI-assisted development or homelabs.
