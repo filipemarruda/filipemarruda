@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/GitHubHeader.jfif" alt="Filipe Arruda" width="100%">
-</p>
-
 <h1 align="center">Hi, I'm Filipe Arruda 👋</h1>
 
 <p align="center">
